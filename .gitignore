@@ -1,0 +1,8 @@
+data/
+audio/
+clips/
+audio_npy/
+frames/
+models/*.pt
+__pycache__/
+*.pyc

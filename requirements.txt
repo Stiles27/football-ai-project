@@ -1,0 +1,7 @@
+torch
+torchvision
+moviepy
+librosa
+matplotlib
+opencv-python
+numpy
